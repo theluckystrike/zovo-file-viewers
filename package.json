@@ -1,0 +1,24 @@
+{
+  "name": "zovo-file-viewers",
+  "displayName": "File Viewers Pack: PDF, Excel, CSV, Parquet, Word, PowerPoint",
+  "description": "One install opens PDF, Excel, CSV, Parquet, Word, PowerPoint, HDF5, NetCDF and model tensor files inside VS Code, with dark mode and search.",
+  "version": "0.1.0",
+  "publisher": "zovo",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": { "vscode": "^1.90.0" },
+  "categories": ["Extension Packs", "Visualization", "Data Science", "Other"],
+  "keywords": ["pdf viewer", "excel viewer", "csv viewer", "parquet viewer", "docx viewer", "word viewer", "pptx viewer", "powerpoint viewer", "file viewer", "file preview", "hdf5", "netcdf", "gguf", "safetensors", "npy", "xlsx", "parquet", "pdf", "docx", "pptx", "dark mode", "extension pack", "viewer pack", "data viewer", "document viewer", "office viewer", "tensor viewer", "table viewer", "pdf dark mode", "preview"],
+  "galleryBanner": { "color": "#1c2028", "theme": "dark" },
+  "extensionPack": [
+    "zovo.pdf-viewer-dark",
+    "zovo.table-viewer-vscode",
+    "zovo.docx-viewer-vscode",
+    "zovo.pptx-slide-viewer",
+    "zovo.hdf5-netcdf-explorer",
+    "zovo.tensor-viewer"
+  ],
+  "repository": { "type": "git", "url": "https://github.com/theluckystrike/zovo-file-viewers" },
+  "homepage": "https://theluckystrike.github.io/zovo-plugin-factory/vscode/index.html",
+  "bugs": { "url": "https://github.com/theluckystrike/zovo-file-viewers/issues" }
+}
