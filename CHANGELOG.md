@@ -4,6 +4,7 @@
 
 - The listing gets a Sponsor button that opens GitHub Sponsors. The pack itself has no code, so nothing changes in VS Code.
 - The README has a short Support section and lists all Zovo extensions, with the ones that are not on the Marketplace yet linked to GitHub.
+- The README list now has the 15 Zovo extensions on the Marketplace under their current names, and 11 that are coming soon.
 
 ## 0.1.0
 
