@@ -1,8 +1,9 @@
 # Changelog
 
-## Unreleased
+## 0.1.2 (2026-11-08)
 
 - The README has a "Support Zovo" section with GitHub Sponsors and the developer's GitHub profile, and "More tools by Zovo" lists related extensions.
+- The "More free viewers" list and the README now use the current Marketplace names and include the newest Zovo extensions: ZIP, GCode, EPUB, HAR, font and audio viewers.
 
 ## 0.1.1 (2026-11-06)
 

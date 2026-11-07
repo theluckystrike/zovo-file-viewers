@@ -2,7 +2,7 @@
   "name": "zovo-file-viewers",
   "displayName": "File Viewers Pack: PDF, Excel, CSV, Parquet, Word, PowerPoint",
   "description": "File viewers for VS Code in one pack: open PDF, Excel, CSV, Parquet, Word, PowerPoint, HDF5, NetCDF and model tensor files, with dark mode and search.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "zovo",
   "license": "MIT",
   "icon": "icon.png",
