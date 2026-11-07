@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- The README has a "Support Zovo" section with GitHub Sponsors and the developer's GitHub profile, and "More tools by Zovo" lists related extensions.
+
 ## 0.1.1 (2026-11-06)
 
 - The listing gets a Sponsor button that opens GitHub Sponsors. The pack itself has no code, so nothing changes in VS Code.
