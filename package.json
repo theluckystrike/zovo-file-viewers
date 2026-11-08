@@ -1,25 +1,70 @@
 {
   "name": "zovo-file-viewers",
-  "displayName": "File Viewers Pack: PDF, Excel, CSV, Parquet, Word, PowerPoint",
-  "description": "File viewers for VS Code in one pack: open PDF, Excel, CSV, Parquet, Word, PowerPoint, HDF5, NetCDF and model tensor files, with dark mode and search.",
-  "version": "0.1.2",
+  "displayName": "Office Viewer Pack: Word, Excel, PowerPoint & PDF Preview",
+  "description": "Office viewer pack for VS Code: one install adds read-only viewers for Word (DOCX, DOC, ODT), Excel (XLSX, XLS, CSV), PowerPoint (PPTX, PPT) and PDF. Dark mode, search, works offline. Free, no ads, no account.",
+  "version": "0.2.0",
   "publisher": "zovo",
   "license": "MIT",
   "icon": "icon.png",
-  "engines": { "vscode": "^1.90.0" },
-  "categories": ["Extension Packs", "Visualization", "Data Science", "Other"],
-  "keywords": ["file viewers", "file viewer", "viewer pack", "pdf viewer", "excel viewer", "csv viewer", "parquet viewer", "docx viewer", "word viewer", "pptx viewer", "powerpoint viewer", "file preview", "hdf5", "netcdf", "gguf", "safetensors", "npy", "xlsx", "parquet", "pdf", "docx", "pptx", "dark mode", "extension pack", "data viewer", "document viewer", "office viewer", "tensor viewer", "table viewer", "pdf dark mode"],
-  "galleryBanner": { "color": "#1c2028", "theme": "dark" },
-  "extensionPack": [
-    "zovo.pdf-viewer-dark",
-    "zovo.table-viewer-vscode",
-    "zovo.docx-viewer-vscode",
-    "zovo.pptx-slide-viewer",
-    "zovo.hdf5-netcdf-explorer",
-    "zovo.tensor-viewer"
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Visualization",
+    "Other"
   ],
-  "repository": { "type": "git", "url": "https://github.com/theluckystrike/zovo-file-viewers" },
+  "keywords": [
+    "office viewer",
+    "office preview",
+    "office file viewer",
+    "office viewer pack",
+    "word viewer",
+    "excel viewer",
+    "powerpoint viewer",
+    "pdf viewer",
+    "pdf preview",
+    "docx viewer",
+    "xlsx viewer",
+    "pptx viewer",
+    "docx",
+    "xlsx",
+    "pptx",
+    "pdf",
+    "csv",
+    "doc",
+    "ppt",
+    "xls",
+    "odt",
+    "word",
+    "excel",
+    "powerpoint",
+    "office",
+    "dark mode",
+    "read only",
+    "extension pack",
+    "document viewer",
+    "file viewer"
+  ],
+  "galleryBanner": {
+    "color": "#1c2028",
+    "theme": "dark"
+  },
+  "extensionPack": [
+    "zovo.docx-viewer-vscode",
+    "zovo.table-viewer-vscode",
+    "zovo.pptx-slide-viewer",
+    "zovo.pdf-viewer-dark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theluckystrike/zovo-file-viewers"
+  },
   "homepage": "https://theluckystrike.github.io/zovo-plugin-factory/vscode/index.html",
-  "bugs": { "url": "https://github.com/theluckystrike/zovo-file-viewers/issues" },
-  "sponsor": { "url": "https://github.com/sponsors/theluckystrike" }
+  "bugs": {
+    "url": "https://github.com/theluckystrike/zovo-file-viewers/issues"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/theluckystrike"
+  }
 }

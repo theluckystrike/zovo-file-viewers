@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.0 (2026-11-08)
+
+- The pack now holds the four Office and PDF viewers: Word (DOCX Viewer), Excel and CSV (XLSX Viewer), PowerPoint (PPTX Viewer) and PDF (PDF Viewer). The HDF5/NetCDF and tensor viewers are still available as separate extensions.
+- New name: Office Viewer Pack: Word, Excel, PowerPoint & PDF Preview.
+
 ## 0.1.2 (2026-11-08)
 
 - The README has a "Support Zovo" section with GitHub Sponsors and the developer's GitHub profile, and "More tools by Zovo" lists related extensions.
