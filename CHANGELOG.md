@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 (2026-11-09)
+
+- README: PayPal is now in "Support Zovo", next to GitHub Sponsors, and a short "Free and Zovo Pro" note says what is free and what the optional Zovo Pro adds. The pack and its four viewers are unchanged.
+
 ## 0.2.0 (2026-11-08)
 
 - The pack now holds the four Office and PDF viewers: Word (DOCX Viewer), Excel and CSV (XLSX Viewer), PowerPoint (PPTX Viewer) and PDF (PDF Viewer). The HDF5/NetCDF and tensor viewers are still available as separate extensions.

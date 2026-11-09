@@ -19,18 +19,25 @@ Install the pack, then click a file in the Explorer. It opens in the matching vi
 
 These are viewers. To edit a document, use the app that made it.
 
+## Free and Zovo Pro
+
+The four viewers in this pack are free and complete. Nothing in them is paid, and every feature they have today stays free.
+
+Zovo Pro is optional: USD 15, paid once, for every Zovo VS Code viewer. Today it adds Pro features in [Hex Viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-hex-viewer) (binary templates with a structure view, bookmarks, checksums and compare reports). Pro features that come to other Zovo viewers later are included, the viewers in this pack too if they get any. See [what Zovo Pro includes](https://theluckystrike.github.io/zovo-plugin-factory/pro.html).
+
 ## Support Zovo
 
 Zovo extensions are free, with no ads and no tracking. They are made by [theluckystrike](https://github.com/theluckystrike) on GitHub. If this one saves you time, you can support the work:
 
 - [Sponsor on GitHub](https://github.com/sponsors/theluckystrike)
+- [PayPal](https://www.paypal.com/paypalme/najzzz)
 - [Follow theluckystrike on GitHub](https://github.com/theluckystrike)
 
 ## More tools by Zovo
 
-- [HDF5 and NetCDF viewer](https://marketplace.visualstudio.com/items?itemName=zovo.hdf5-netcdf-explorer) shows the variables, metadata and values in .nc and .h5 files, with a plot.
-- [Tensor viewer](https://marketplace.visualstudio.com/items?itemName=zovo.tensor-viewer) lists every tensor in .npy, .npz, .safetensors and .gguf files, with stats and a heatmap.
-- [SQLite viewer](https://marketplace.visualstudio.com/items?itemName=zovo.sqlite-table-viewer) opens SQLite database files as read-only tables.
+- [PDF Viewer & Reader to Read and View PDF in Dark Mode](https://marketplace.visualstudio.com/items?itemName=zovo.pdf-viewer-dark) reads PDFs with a real dark mode, search, an outline and thumbnails.
+- [XLSX Viewer & CSV Preview for Excel, XLS & Parquet](https://marketplace.visualstudio.com/items?itemName=zovo.table-viewer-vscode) opens CSV, TSV, Excel and Parquet files as a sortable, filterable table.
+- [DOCX Viewer & ODT Viewer, Word Document Preview (Dark Mode)](https://marketplace.visualstudio.com/items?itemName=zovo.docx-viewer-vscode) previews Word and ODT files with dark mode, an outline and search.
 
 See [all Zovo extensions on the Marketplace](https://marketplace.visualstudio.com/publishers/zovo).
 

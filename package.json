@@ -2,7 +2,7 @@
   "name": "zovo-file-viewers",
   "displayName": "Office Viewer Pack: Word, Excel, PowerPoint & PDF Preview",
   "description": "Office viewer pack for VS Code: one install adds read-only viewers for Word (DOCX, DOC, ODT), Excel (XLSX, XLS, CSV), PowerPoint (PPTX, PPT) and PDF. Dark mode, search, works offline. Free, no ads, no account.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "zovo",
   "license": "MIT",
   "icon": "icon.png",
